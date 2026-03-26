@@ -1,0 +1,11 @@
+/Users/sami/CHIP8-emulator/emulator/target/debug/deps/rand_core-735cf7f1cba7e8a8.d: /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/lib.rs /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/block.rs /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/utils.rs /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/seedable_rng.rs /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/unwrap_err.rs /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/word.rs /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/../README.md
+
+/Users/sami/CHIP8-emulator/emulator/target/debug/deps/librand_core-735cf7f1cba7e8a8.rmeta: /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/lib.rs /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/block.rs /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/utils.rs /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/seedable_rng.rs /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/unwrap_err.rs /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/word.rs /Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/../README.md
+
+/Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/lib.rs:
+/Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/block.rs:
+/Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/utils.rs:
+/Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/seedable_rng.rs:
+/Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/unwrap_err.rs:
+/Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/word.rs:
+/Users/sami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.0/src/../README.md:
